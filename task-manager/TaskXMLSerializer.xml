@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tasks>
+  <task active="false" end="" repeat="0" repeated="false" start="" time="28800">[EDUCTR][TA]Проснуться утром</task>
+  <task active="false" end="64800" repeat="14400" repeated="true" start="30000" time="30000">[EDUCTR][TA]Покушать (завтрак, обед, ужин)</task>
+</tasks>
