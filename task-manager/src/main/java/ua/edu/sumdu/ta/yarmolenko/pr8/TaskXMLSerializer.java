@@ -81,11 +81,22 @@ public class TaskXMLSerializer {
             String repeat = attributes.getNamedItem("repeat").getNodeValue();
             String repeated = attributes.getNamedItem("repeated").getNodeValue();
 
-            if ("true" == repeated) {
-                taskList.add(new Task(title, Integer.parseInt(start), Integer.parseInt(end), Integer.parseInt(repeat)));
+            boolean b = ((active.trim()).equals("true") ? true : false);
+            if ((repeated.trim()).equals("true")) {
+                Task task = new Task(title, Integer.parseInt(start), Integer.parseInt(end), Integer.parseInt(repeat));
+                if (b) {
+                    task.setActive(true);
+                }
+                taskList.add(task);
             } else {
-                taskList.add(new Task(title, Integer.parseInt(time)));
+                Task task = new Task(title, Integer.parseInt(time));
+                if (b) {
+                    task.setActive(true);
+                }
+                taskList.add(task);
             }
+
+
         }
 
         return taskList;

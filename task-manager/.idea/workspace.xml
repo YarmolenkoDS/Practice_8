@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d2bf687-ddc7-47b2-994a-d66cb9dce0a0" name="Default Changelist" comment="" />
+    <list default="true" id="5d2bf687-ddc7-47b2-994a-d66cb9dce0a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskXMLSerializer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TaskXMLSerializer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/edu/sumdu/ta/yarmolenko/pr8/TaskXMLSerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/edu/sumdu/ta/yarmolenko/pr8/TaskXMLSerializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ua/edu/sumdu/ta/yarmolenko/pr8/tests/TaskXMLSerializerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ua/edu/sumdu/ta/yarmolenko/pr8/tests/TaskXMLSerializerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/edu/sumdu/ta/yarmolenko/pr8/TaskXMLSerializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/edu/sumdu/ta/yarmolenko/pr8/TaskXMLSerializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ua/edu/sumdu/ta/yarmolenko/pr8/tests/TaskXMLSerializerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ua/edu/sumdu/ta/yarmolenko/pr8/tests/TaskXMLSerializerTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,20 +20,35 @@
     <session id="-1392269694">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="1" />
-          <entry key="xml" value="1" />
+          <entry key="xml" value="2" />
+          <entry key="xsd" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="1" />
-          <entry key="XML" value="1" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="540" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="540" />
         </counts>
       </usages-collector>
     </session>
@@ -63,14 +85,23 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1967411704">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/sumdu/ta/yarmolenko/pr8/TaskXMLSerializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="62" column="54" selection-start-line="62" selection-start-column="54" selection-end-line="62" selection-end-column="54" />
+            <state relative-caret-position="1088">
+              <caret line="77" selection-start-line="77" selection-end-line="77" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,11 +109,33 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TaskXMLSerializer.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TaskXMLSerializer.xsd">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/sumdu/ta/yarmolenko/pr8/Task.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="124" column="9" selection-start-line="124" selection-start-column="7" selection-end-line="124" selection-end-column="74" />
+            <state relative-caret-position="2091">
+              <caret line="135" column="16" selection-start-line="135" selection-start-column="16" selection-end-line="135" selection-end-column="16" />
+              <folding>
+                <element signature="e#3954#3955#0" expanded="true" />
+                <element signature="e#3994#3995#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -90,8 +143,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ua/edu/sumdu/ta/yarmolenko/pr8/tests/TaskXMLSerializerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="425">
+              <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -99,7 +152,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/sumdu/ta/yarmolenko/pr8/ArrayTaskList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="1105">
               <caret line="77" selection-start-line="77" selection-end-line="77" />
             </state>
           </provider>
@@ -117,8 +170,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/sumdu/ta/yarmolenko/pr8/AbstractTaskList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1675">
-              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="1683">
+              <caret line="111" column="25" selection-start-line="111" selection-start-column="25" selection-end-line="111" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -140,6 +193,9 @@
       <replace>String.valueOf(taskListItem.)</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -147,9 +203,16 @@
         <option value="$PROJECT_DIR$/TaskXMLSerializer.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ua/edu/sumdu/ta/yarmolenko/pr8/ArrayTaskList.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/edu/sumdu/ta/yarmolenko/pr8/LinkedTaskList.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ua/edu/sumdu/ta/yarmolenko/pr8/tests/TaskXMLSerializerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/edu/sumdu/ta/yarmolenko/pr8/TaskXMLSerializer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ua/edu/sumdu/ta/yarmolenko/pr8/tests/TaskXMLSerializerTest.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -157,12 +220,12 @@
     <option name="width" value="1260" />
     <option name="height" value="552" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,10 +290,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543357111530" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543502037502" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -284,34 +348,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AllTests - 2018.11.27 at 23h 00m 29s.xml">
+    <history-entry file="AllTests - 2018.11.29 at 15h 43m 09s.xml">
       <configuration name="AllTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TaskXMLSerializerTest_testXMLSerializer - 2018.11.27 at 23h 39m 29s.xml">
-      <configuration name="TaskXMLSerializerTest.testXMLSerializer" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AllTests - 2018.11.27 at 23h 39m 54s.xml">
+    <history-entry file="AllTests - 2018.11.29 at 15h 48m 03s.xml">
       <configuration name="AllTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AllTests - 2018.11.27 at 23h 44m 22s.xml">
+    <history-entry file="AllTests - 2018.11.29 at 15h 52m 28s.xml">
       <configuration name="AllTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AllTests - 2018.11.27 at 23h 46m 10s.xml">
+    <history-entry file="AllTests - 2018.11.29 at 15h 56m 53s.xml">
       <configuration name="AllTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AllTests - 2018.11.27 at 23h 46m 24s.xml">
+    <history-entry file="AllTests - 2018.11.29 at 16h 14m 34s.xml">
       <configuration name="AllTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AllTests - 2018.11.27 at 23h 47m 07s.xml">
+    <history-entry file="AllTests - 2018.11.29 at 16h 16m 32s.xml">
       <configuration name="AllTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AllTests - 2018.11.28 at 00h 04m 14s.xml">
+    <history-entry file="AllTests - 2018.11.29 at 16h 18m 53s.xml">
       <configuration name="AllTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AllTests - 2018.11.28 at 00h 16m 15s.xml">
+    <history-entry file="AllTests - 2018.11.29 at 16h 23m 11s.xml">
       <configuration name="AllTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AllTests - 2018.11.28 at 00h 18m 27s.xml">
+    <history-entry file="AllTests - 2018.11.29 at 16h 34m 01s.xml">
+      <configuration name="AllTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllTests - 2018.11.29 at 16h 43m 28s.xml">
       <configuration name="AllTests" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -319,7 +383,7 @@
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29045308" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31472492" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -365,48 +429,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/sumdu/ta/yarmolenko/pr8/LinkedListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/sumdu/ta/yarmolenko/pr8/ArrayTaskList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="77" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TaskXMLSerializer.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="58" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/sumdu/ta/yarmolenko/pr8/AbstractTaskList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1675">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ua/edu/sumdu/ta/yarmolenko/pr8/tests/TaskXMLSerializerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/sumdu/ta/yarmolenko/pr8/Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="124" column="9" selection-start-line="124" selection-start-column="7" selection-end-line="124" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -416,11 +438,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/sumdu/ta/yarmolenko/pr8/TaskXMLSerializer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="62" column="54" selection-start-line="62" selection-start-column="54" selection-end-line="62" selection-end-column="54" />
+        <state relative-caret-position="1088">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskXMLSerializer.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/sumdu/ta/yarmolenko/pr8/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="135" column="16" selection-start-line="135" selection-start-column="16" selection-end-line="135" selection-end-column="16" />
+          <folding>
+            <element signature="e#3954#3955#0" expanded="true" />
+            <element signature="e#3994#3995#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/edu/sumdu/ta/yarmolenko/pr8/tests/TaskXMLSerializerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/sumdu/ta/yarmolenko/pr8/ArrayTaskList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/sumdu/ta/yarmolenko/pr8/LinkedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/sumdu/ta/yarmolenko/pr8/AbstractTaskList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="111" column="25" selection-start-line="111" selection-start-column="25" selection-end-line="111" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskXMLSerializer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="57" />
         </state>
       </provider>
     </entry>
